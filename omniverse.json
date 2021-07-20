@@ -51,112 +51,107 @@
 			"image": "wildvine.png"
 		},
 		{
-			"id": 11,
+			"id": 10,
 			"name": "Shock Rock",
 			"image": "shock-rock.png"
 		},
 		{
-			"id": 12,
+			"id": 11,
 			"name": "Slapback",
 			"image": "slapback.png"
 		},
 		{
-			"id": 13,
+			"id": 12,
 			"name": "Humungousaur",
 			"image": "humungousaur.png"
 		},
 		{
-			"id": 14,
+			"id": 13,
 			"name": "Rath",
 			"image": "rath.png"
 		},
 		{
-			"id": 15,
+			"id": 14,
 			"name": "Jetray",
 			"image": "jetray.png"
 		},
 		{
-			"id": 16,
+			"id": 15,
 			"name": "Goop",
 			"image": "goop.png"
 		},
 		{
-			"id": 17,
+			"id": 16,
 			"name": "Big Way",
 			"image": "big-way.png"
 		},
 		{
-			"id": 18,
+			"id": 17,
 			"name": "Surge",
 			"image": "surge.png"
 		},
 		{
-			"id": 19,
+			"id": 18,
 			"name": "Alien X",
 			"image": "alien-x.png"
 		},
 		{
-			"id": 20,
+			"id": 19,
 			"name": "Ghostfreak",
 			"image": "ghostfreak.png"
 		},
 		{
-			"id": 21,
+			"id": 20,
 			"name": "Archfiendzarro",
 			"image": "archfiendzarro.png"
 		},
 		{
-			"id": 22,
+			"id": 21,
 			"name": "Arctiguana",
 			"image": "arctiguana.png"
 		},
 		{
-			"id": 23,
+			"id": 22,
 			"name": "Astrodactyl",
 			"image": "astrodactyl.png"
 		},
 		{
-			"id": 24,
+			"id": 23,
 			"name": "Armodrillo",
 			"image": "armodrillo.png"
 		},
 		{
-			"id": 25,
+			"id": 24,
 			"name": "Azmuth",
 			"image": "azmuth.png"
 		},
 		{
-			"id": 26,
+			"id": 25,
 			"name": "Atomix",
 			"image": "atomix.png"
 		},
 		{
-			"id": 27,
+			"id": 26,
 			"name": "Atomix-X",
 			"image": "atomix-x.png"
 		},
 		{
-			"id": 28,
-			"name": "Bahrvard",
-			"image": "bahrvard.png"
-		},
-		{
-			"id": 29,
+			"id": 27,
 			"name": "Bashmouth",
 			"image": "bashmouth.png"
 		},
 		{
-			"id": 30,
+			"id": 28,
 			"name": "Ball Weevil",
 			"image": "ball-weevil.png"
 		},
 		{
-			"id": 31,
+			"id": 29,
 			"name": "Bat Dude",
 			"image": "bat-dude.png"
 		},
 		{
-			"id": 32,
+			"id": 30,
 			"name": "Big Chill",
 			"image": "big-chill.png"
 		}
