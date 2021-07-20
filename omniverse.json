@@ -114,6 +114,56 @@
 			"id": 23,
 			"name": "Astrodactyl",
 			"image": "astrodactyl.png"
+		},
+		{
+			"id": 24,
+			"name": "Armodrillo",
+			"image": "armodrillo.png"
+		},
+		{
+			"id": 25,
+			"name": "Azmuth",
+			"image": "azmuth.png"
+		},
+		{
+			"id": 26,
+			"name": "Atomix",
+			"image": "atomix.png"
+		},
+		{
+			"id": 27,
+			"name": "Atomix-X",
+			"image": "atomix-x.png"
+		},
+		{
+			"id": 28,
+			"name": "Bahrvard",
+			"image": "bahrvard.png"
+		},
+		{
+			"id": 29,
+			"name": "Bashmouth",
+			"image": "bashmouth.png"
+		},
+		{
+			"id": 30,
+			"name": "Ball Weevil",
+			"image": "ball-weevil.png"
+		},
+		{
+			"id": 31,
+			"name": "Bat Dude",
+			"image": "bat-dude.png"
+		},
+		{
+			"id": 32,
+			"name": "Big Chill",
+			"image": "big-chill.png"
+		},
+		{
+			"id": 33,
+			"name": "Bailiff",
+			"image": "bailiff.png"
 		}
 	]
 }
