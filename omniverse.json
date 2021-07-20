@@ -159,11 +159,6 @@
 			"id": 32,
 			"name": "Big Chill",
 			"image": "big-chill.png"
-		},
-		{
-			"id": 33,
-			"name": "Bailiff",
-			"image": "bailiff.png"
 		}
 	]
 }
