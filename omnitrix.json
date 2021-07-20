@@ -1,0 +1,99 @@
+{
+	"omnitrix": [
+		{
+			"id": 0,
+			"name": "Cannonbolt",
+			"image": "cannonbolt.png"
+		},
+		{
+			"id": 1,
+			"name": "Overflow",
+			"image": "overflow.png"
+		},
+		{
+			"id": 2,
+			"name": "Heatblast",
+			"image": "heatblast.png"
+		},
+		{
+			"id": 3,
+			"name": "XLRB",
+			"image": "xlrb.png"
+		},
+		{
+			"id": 4,
+			"name": "Four Arms",
+			"image": "four-arms.png"
+		},
+		{
+			"id": 5,
+			"name": "Grey Matter",
+			"image": "grey-matter.png"
+		},
+		{
+			"id": 6,
+			"name": "Diamondhead",
+			"image": "diamondhead.png"
+		},
+		{
+			"id": 7,
+			"name": "Upgrade",
+			"image": "upgrade.png"
+		},
+		{
+			"id": 8,
+			"name": "Stinkfly",
+			"image": "stinkfly.png"
+		},
+		{
+			"id": 9,
+			"name": "Wildvine",
+			"image": "wildvine.png"
+		},
+		{
+			"id": 10,
+			"name": "Gax",
+			"image": "gax.png"
+		},
+		{
+			"id": 11,
+			"name": "Shock Rock",
+			"image": "shock-rock.png"
+		},
+		{
+			"id": 12,
+			"name": "Slapback",
+			"image": "slapback.png"
+		},
+		{
+			"id": 13,
+			"name": "Humungousaur",
+			"image": "humungousaur.png"
+		},
+		{
+			"id": 14,
+			"name": "Rath",
+			"image": "rath.png"
+		},
+		{
+			"id": 15,
+			"name": "Jetray",
+			"image": "jetray.png"
+		},
+		{
+			"id": 16,
+			"name": "Goop",
+			"image": "goop.png"
+		},
+		{
+			"id": 17,
+			"name": "Way Big",
+			"image": "way-big.png"
+		},
+		{
+			"id": 18,
+			"name": "Surge",
+			"image": "surge.png"
+		}
+	]
+}
