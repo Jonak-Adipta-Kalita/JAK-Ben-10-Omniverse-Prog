@@ -1,6 +1,6 @@
 const dex = document.getElementById('dex');
 const fetchOmnitrix = async () => {
-    const url = "/omnitrix.json";
+    const url = "/omniverse.json";
 	const res = await fetch(url);
 	const data = await res.json();
 	console.log(data);

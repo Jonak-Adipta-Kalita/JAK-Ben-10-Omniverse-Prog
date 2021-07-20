@@ -51,11 +51,6 @@
 			"image": "wildvine.png"
 		},
 		{
-			"id": 10,
-			"name": "Gax",
-			"image": "gax.png"
-		},
-		{
 			"id": 11,
 			"name": "Shock Rock",
 			"image": "shock-rock.png"
@@ -87,13 +82,38 @@
 		},
 		{
 			"id": 17,
-			"name": "Way Big",
-			"image": "way-big.png"
+			"name": "Big Way",
+			"image": "big-way.png"
 		},
 		{
 			"id": 18,
 			"name": "Surge",
 			"image": "surge.png"
+		},
+		{
+			"id": 19,
+			"name": "Alien X",
+			"image": "alien-x.png"
+		},
+		{
+			"id": 20,
+			"name": "Ghostfreak",
+			"image": "ghostfreak.png"
+		},
+		{
+			"id": 21,
+			"name": "Archfiendzarro",
+			"image": "archfiendzarro.png"
+		},
+		{
+			"id": 22,
+			"name": "Arctiguana",
+			"image": "arctiguana.png"
+		},
+		{
+			"id": 23,
+			"name": "Astrodactyl",
+			"image": "astrodactyl.png"
 		}
 	]
 }
