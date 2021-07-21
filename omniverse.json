@@ -189,6 +189,11 @@
 			"id": 37,
 			"name": "Buzz Shock",
 			"image": "buzzshock.png"
+		},
+		{
+			"id": 39,
+			"name": "Water Hazard",
+			"image": "water-hazard.png"
 		}
 	]
 }
