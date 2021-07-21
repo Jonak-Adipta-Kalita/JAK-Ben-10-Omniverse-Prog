@@ -149,6 +149,51 @@
 			"id": 29,
 			"name": "Big Chill",
 			"image": "big-chill.png"
+		},
+		{
+			"id": 30,
+			"name": "Big Chuck",
+			"image": "big-chuck.png"
+		},
+		{
+			"id": 31,
+			"name": "Blitzwolfer",
+			"image": "blitzwolfer.png"
+		},
+		{
+			"id": 32,
+			"name": "Bloxx",
+			"image": "bloxx.png"
+		},
+		{
+			"id": 33,
+			"name": "Bob The Blob",
+			"image": "bob-the-blob.png"
+		},
+		{
+			"id": 34,
+			"name": "BrainDrain",
+			"image": "braindrain.png"
+		},
+		{
+			"id": 35,
+			"name": "BrainStorm",
+			"image": "brainstorm.png"
+		},
+		{
+			"id": 36,
+			"name": "BullFrag",
+			"image": "bullfrag.png"
+		},
+		{
+			"id": 37,
+			"name": "Bungee Sponge",
+			"image": "bungee-sponge.png"
+		},
+		{
+			"id": 38,
+			"name": "Buzz Shock",
+			"image": "buzzshock.png"
 		}
 	]
 }
