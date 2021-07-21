@@ -122,36 +122,31 @@
 		},
 		{
 			"id": 24,
-			"name": "Azmuth",
-			"image": "azmuth.png"
-		},
-		{
-			"id": 25,
 			"name": "Atomix",
 			"image": "atomix.png"
 		},
 		{
-			"id": 26,
+			"id": 25,
 			"name": "Atomix-X",
 			"image": "atomix-x.png"
 		},
 		{
-			"id": 27,
+			"id": 26,
 			"name": "Bashmouth",
 			"image": "bashmouth.png"
 		},
 		{
-			"id": 28,
+			"id": 27,
 			"name": "Ball Weevil",
 			"image": "ball-weevil.png"
 		},
 		{
-			"id": 29,
+			"id": 28,
 			"name": "Bat Dude",
 			"image": "bat-dude.png"
 		},
 		{
-			"id": 30,
+			"id": 29,
 			"name": "Big Chill",
 			"image": "big-chill.png"
 		}
