@@ -132,66 +132,61 @@
 		},
 		{
 			"id": 26,
-			"name": "Bashmouth",
-			"image": "bashmouth.png"
-		},
-		{
-			"id": 27,
 			"name": "Ball Weevil",
 			"image": "ball-weevil.png"
 		},
 		{
-			"id": 28,
+			"id": 27,
 			"name": "Bat Dude",
 			"image": "bat-dude.png"
 		},
 		{
-			"id": 29,
+			"id": 28,
 			"name": "Big Chill",
 			"image": "big-chill.png"
 		},
 		{
-			"id": 30,
+			"id": 29,
 			"name": "Big Chuck",
 			"image": "big-chuck.png"
 		},
 		{
-			"id": 31,
+			"id": 30,
 			"name": "Blitzwolfer",
 			"image": "blitzwolfer.png"
 		},
 		{
-			"id": 32,
+			"id": 31,
 			"name": "Bloxx",
 			"image": "bloxx.png"
 		},
 		{
-			"id": 33,
+			"id": 32,
 			"name": "Bob The Blob",
 			"image": "bob-the-blob.png"
 		},
 		{
-			"id": 34,
+			"id": 33,
 			"name": "BrainDrain",
 			"image": "braindrain.png"
 		},
 		{
-			"id": 35,
+			"id": 34,
 			"name": "BrainStorm",
 			"image": "brainstorm.png"
 		},
 		{
-			"id": 36,
+			"id": 35,
 			"name": "BullFrag",
 			"image": "bullfrag.png"
 		},
 		{
-			"id": 37,
+			"id": 36,
 			"name": "Bungee Sponge",
 			"image": "bungee-sponge.png"
 		},
 		{
-			"id": 38,
+			"id": 37,
 			"name": "Buzz Shock",
 			"image": "buzzshock.png"
 		}
