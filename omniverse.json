@@ -232,78 +232,88 @@
 		},
 		{
 			"id": 46,
-			"name": "Decimus Prime",
-			"image": "decimus-prime.png"
-		},
-		{
-			"id": 47,
 			"name": "Deefus Veeblepister",
 			"image": "deefus-veeblepister.png"
 		},
 		{
-			"id": 48,
+			"id": 47,
 			"name": "Diamond Matter",
 			"image": "diamond-matter.png"
 		},
 		{
-			"id": 49,
+			"id": 48,
 			"name": "Ditto",
 			"image": "ditto.png"
 		},
 		{
-			"id": 50,
+			"id": 49,
 			"name": "Dog Nabbit",
 			"image": "dog-nabbit.png"
 		},
 		{
-			"id": 51,
+			"id": 50,
 			"name": "Eatle",
 			"image": "eatle.png"
 		},
 		{
-			"id": 52,
+			"id": 51,
 			"name": "Echo Echo",
 			"image": "echo-echo.png"
 		},
 		{
-			"id": 53,
+			"id": 52,
 			"name": "Eye Guy",
 			"image": "eye-guy.png"
 		},
 		{
-			"id": 54,
+			"id": 53,
 			"name": "ElectricYeti",
 			"image": "electricyeti.png"
 		},
 		{
-			"id": 55,
+			"id": 54,
 			"name": "FastTrack",
 			"image": "fasttrack.png"
 		},
 		{
-			"id": 56,
+			"id": 55,
 			"name": "FeedBack",
 			"image": "feedback.png"
 		},
 		{
-			"id": 57,
+			"id": 56,
 			"name": "Fish Fingers",
 			"image": "fish-fingers.png"
 		},
 		{
-			"id": 58,
+			"id": 57,
 			"name": "FrankenStrike",
 			"image": "frankenstrike.png"
 		},
 		{
-			"id": 59,
+			"id": 58,
 			"name": "FreezeGhost",
 			"image": "freezeghost.png"
 		},
 		{
-			"id": 60,
+			"id": 59,
 			"name": "FreezeLizard",
 			"image": "freezelizard.png"
+		},
+		{
+			"id": 60,
+			"name": "Galvan Major",
+			"image": "galvan-major.png"
+		},
+		{
+			"id": 61,
+			"name": "Giant Manster",
+			"image": "giant-manster.png"
+		},
+		{
+			"id": 62,
+			"name": "Gravattack",
+			"image": "gravattack.png"
 		}
 	]
 }
