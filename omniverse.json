@@ -82,8 +82,8 @@
 		},
 		{
 			"id": 16,
-			"name": "Big Way",
-			"image": "big-way.png"
+			"name": "Way Big",
+			"image": "way-big.png"
 		},
 		{
 			"id": 17,
@@ -254,6 +254,16 @@
 			"id": 50,
 			"name": "Dog Nabbit",
 			"image": "dog-nabbit.png"
+		},
+		{
+			"id": 51,
+			"name": "Eatle",
+			"image": "eatle.png"
+		},
+		{
+			"id": 52,
+			"name": "Echo Echo",
+			"image": "echo-echo.png"
 		}
 	]
 }
