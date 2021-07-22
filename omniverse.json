@@ -284,6 +284,21 @@
 			"id": 56,
 			"name": "FeedBack",
 			"image": "feedback.png"
+		},
+		{
+			"id": 57,
+			"name": "Fish Fingers",
+			"image": "fish-fingers.png"
+		},
+		{
+			"id": 58,
+			"name": "FrankenStrike",
+			"image": "frankenstrike.png"
+		},
+		{
+			"id": 59,
+			"name": "FreezeGhost",
+			"image": "freezeghost.png"
 		}
 	]
 }
