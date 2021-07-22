@@ -191,32 +191,32 @@
 			"image": "buzzshock.png"
 		},
 		{
-			"id": 39,
+			"id": 38,
 			"name": "Water Hazard",
 			"image": "water-hazard.png"
 		},
 		{
-			"id": 40,
+			"id": 39,
 			"name": "Chamalien",
 			"image": "chamalien.png"
 		},
 		{
-			"id": 41,
+			"id": 40,
 			"name": "Chromastone",
 			"image": "chromastone.png"
 		},
 		{
-			"id": 42,
+			"id": 41,
 			"name": "ClockWork",
 			"image": "clockwork.png"
 		},
 		{
-			"id": 43,
+			"id": 42,
 			"name": "CrashHopper",
 			"image": "crashhopper.png"
 		},
 		{
-			"id": 44,
+			"id": 43,
 			"name": "Crashocker",
 			"image": "crashocker.png"
 		}
