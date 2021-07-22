@@ -224,6 +224,26 @@
 			"id": 44,
 			"name": "Decagon Vreedle",
 			"image": "decagon-vreedle.png"
+		},
+		{
+			"id": 45,
+			"name": "Decimus Prime",
+			"image": "decimus-prime.png"
+		},
+		{
+			"id": 46,
+			"name": "Decimus Prime",
+			"image": "decimus-prime.png"
+		},
+		{
+			"id": 47,
+			"name": "Deefus Veeblepister",
+			"image": "deefus-veeblepister.png"
+		},
+		{
+			"id": 48,
+			"name": "Diamond Matter",
+			"image": "diamond-matter.png"
 		}
 	]
 }
