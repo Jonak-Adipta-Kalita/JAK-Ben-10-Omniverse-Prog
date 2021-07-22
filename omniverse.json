@@ -244,6 +244,16 @@
 			"id": 48,
 			"name": "Diamond Matter",
 			"image": "diamond-matter.png"
+		},
+		{
+			"id": 49,
+			"name": "Ditto",
+			"image": "ditto.png"
+		},
+		{
+			"id": 50,
+			"name": "Dog Nabbit",
+			"image": "dog-nabbit.png"
 		}
 	]
 }
