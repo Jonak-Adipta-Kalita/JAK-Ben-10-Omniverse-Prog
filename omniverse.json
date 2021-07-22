@@ -264,6 +264,16 @@
 			"id": 52,
 			"name": "Echo Echo",
 			"image": "echo-echo.png"
+		},
+		{
+			"id": 53,
+			"name": "Eye Guy",
+			"image": "eye-guy.png"
+		},
+		{
+			"id": 54,
+			"name": "ElectricYeti",
+			"image": "electricyeti.png"
 		}
 	]
 }
