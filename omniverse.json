@@ -219,6 +219,11 @@
 			"id": 43,
 			"name": "Crashocker",
 			"image": "crashocker.png"
+		},
+		{
+			"id": 44,
+			"name": "Decagon Vreedle",
+			"image": "decagon-vreedle.png"
 		}
 	]
 }
