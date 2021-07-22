@@ -314,6 +314,16 @@
 			"id": 62,
 			"name": "Gravattack",
 			"image": "gravattack.png"
+		},
+		{
+			"id": 63,
+			"name": "Gutrot",
+			"image": "gutrot.png"
+		},
+		{
+			"id": 64,
+			"name": "Grey Arms",
+			"image": "grey-arms.png"
 		}
 	]
 }
