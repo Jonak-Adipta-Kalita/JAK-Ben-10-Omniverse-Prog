@@ -299,6 +299,11 @@
 			"id": 59,
 			"name": "FreezeGhost",
 			"image": "freezeghost.png"
+		},
+		{
+			"id": 60,
+			"name": "FreezeLizard",
+			"image": "freezelizard.png"
 		}
 	]
 }
