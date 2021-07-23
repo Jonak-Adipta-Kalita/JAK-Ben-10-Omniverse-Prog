@@ -222,111 +222,101 @@
 		},
 		{
 			"id": 44,
-			"name": "Decagon Vreedle",
-			"image": "decagon-vreedle.png"
-		},
-		{
-			"id": 45,
-			"name": "Decimus Prime",
-			"image": "decimus-prime.png"
-		},
-		{
-			"id": 46,
 			"name": "Deefus Veeblepister",
 			"image": "deefus-veeblepister.png"
 		},
 		{
-			"id": 47,
+			"id": 45,
 			"name": "Diamond Matter",
 			"image": "diamond-matter.png"
 		},
 		{
-			"id": 48,
+			"id": 46,
 			"name": "Ditto",
 			"image": "ditto.png"
 		},
 		{
-			"id": 49,
+			"id": 47,
 			"name": "Dog Nabbit",
 			"image": "dog-nabbit.png"
 		},
 		{
-			"id": 50,
+			"id": 48,
 			"name": "Eatle",
 			"image": "eatle.png"
 		},
 		{
-			"id": 51,
+			"id": 49,
 			"name": "Echo Echo",
 			"image": "echo-echo.png"
 		},
 		{
-			"id": 52,
+			"id": 50,
 			"name": "Eye Guy",
 			"image": "eye-guy.png"
 		},
 		{
-			"id": 53,
+			"id": 51,
 			"name": "ElectricYeti",
 			"image": "electricyeti.png"
 		},
 		{
-			"id": 54,
+			"id": 52,
 			"name": "FastTrack",
 			"image": "fasttrack.png"
 		},
 		{
-			"id": 55,
+			"id": 53,
 			"name": "FeedBack",
 			"image": "feedback.png"
 		},
 		{
-			"id": 56,
+			"id": 54,
 			"name": "Fish Fingers",
 			"image": "fish-fingers.png"
 		},
 		{
-			"id": 57,
+			"id": 55,
 			"name": "FrankenStrike",
 			"image": "frankenstrike.png"
 		},
 		{
-			"id": 58,
+			"id": 56,
 			"name": "FreezeGhost",
 			"image": "freezeghost.png"
 		},
 		{
-			"id": 59,
+			"id": 57,
 			"name": "FreezeLizard",
 			"image": "freezelizard.png"
 		},
 		{
-			"id": 60,
+			"id": 58,
 			"name": "Galvan Major",
 			"image": "galvan-major.png"
 		},
 		{
-			"id": 61,
+			"id": 59,
 			"name": "Giant Manster",
 			"image": "giant-manster.png"
 		},
 		{
-			"id": 62,
+			"id": 60,
 			"name": "Gravattack",
 			"image": "gravattack.png"
 		},
 		{
-			"id": 63,
+			"id": 61,
 			"name": "Gutrot",
 			"image": "gutrot.png"
 		},
 		{
-			"id": 64,
+			"id": 62,
 			"name": "Grey Arms",
 			"image": "grey-arms.png"
 		},
 		{
-			"id": 65,
+			"id": 63,
 			"name": "Handy Man",
 			"image": "handy-man.png"
 		}
