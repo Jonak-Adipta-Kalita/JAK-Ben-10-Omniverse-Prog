@@ -344,6 +344,21 @@
 			"id": 68,
 			"name": "Lodestar",
 			"image": "lodestar.png"
+		},
+		{
+			"id": 69,
+			"name": "Mole Stache",
+			"image": "mole-stache.png"
+		},
+		{
+			"id": 70,
+			"name": "Mr. Monkey",
+			"image": "mr-monkey.png"
+		},
+		{
+			"id": 71,
+			"name": "Mr. Mucky",
+			"image": "mr-mucky.png"
 		}
 	]
 }
