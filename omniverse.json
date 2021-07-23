@@ -319,6 +319,31 @@
 			"id": 63,
 			"name": "Handy Man",
 			"image": "handy-man.png"
+		},
+		{
+			"id": 64,
+			"name": "Humungoopsaur",
+			"image": "humungoopsaur.png"
+		},
+		{
+			"id": 65,
+			"name": "Juryrigg",
+			"image": "juryrigg.png"
+		},
+		{
+			"id": 66,
+			"name": "Kickin Hawk",
+			"image": "kickin-hawk.png"
+		},
+		{
+			"id": 67,
+			"name": "Lightning Volt",
+			"image": "lightning-volt.png"
+		},
+		{
+			"id": 68,
+			"name": "Lodestar",
+			"image": "lodestar.png"
 		}
 	]
 }
