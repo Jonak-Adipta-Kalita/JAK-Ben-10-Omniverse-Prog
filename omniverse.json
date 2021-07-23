@@ -17,8 +17,8 @@
 		},
 		{
 			"id": 3,
-			"name": "XLRB",
-			"image": "xlrb.png"
+			"name": "XLR8",
+			"image": "xlr8.png"
 		},
 		{
 			"id": 4,
@@ -379,6 +379,41 @@
 			"id": 75,
 			"name": "Pesky Dust",
 			"image": "pesky-dust.png"
+		},
+		{
+			"id": 76,
+			"name": "Ripjaws",
+			"image": "ripjaws.png"
+		},
+		{
+			"id": 77,
+			"name": "Rollaway",
+			"image": "rollaway.png"
+		},
+		{
+			"id": 78,
+			"name": "Shocksquatch",
+			"image": "shocksquatch.png"
+		},
+		{
+			"id": 79,
+			"name": "Snare-oh",
+			"image": "snare-oh.png"
+		},
+		{
+			"id": 80,
+			"name": "Spidermonkey",
+			"image": "spidermonkey.png"
+		},
+		{
+			"id": 81,
+			"name": "SpeedyQuick",
+			"image": "speedyquick.png"
+		},
+		{
+			"id": 82,
+			"name": "Spitter",
+			"image": "Spitter.png"
 		}
 	]
 }
