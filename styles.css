@@ -42,11 +42,6 @@ h1 {
     font-size: 32px;
     font-weight: normal;
 }
-.card-subtitle {
-    margin-top: 5px;
-    color: #666;
-    font-weight: lighter;
-}
 
 .card-image {
     height: 180px;
@@ -66,39 +61,4 @@ h1 {
     100% {
         transform: translateY(0);
     }
-}
-
-.popup {
-	position: fixed;
-	top: 0;
-	left: 0;
-	height: 100vh;
-	width: 100vw;
-	background: #f4f4f4;
-	opacity: 0.95;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-}
-
-#closeBtn {
-	position: absolute;
-	top: 20px;
-	right: 20px;
-	outline: none;
-}
-
-button {
-	background-color: orangered;
-	padding: 10px 20px;
-	border: none;
-	color: white;
-	border-radius: 3px;
-	transition: transform 100ms;
-}
-
-button:hover {
-	cursor: pointer;
-	transform: translateY(-1px);
-	box-shadow: 0px 1px 2px darkred;
 }
