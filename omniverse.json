@@ -414,6 +414,71 @@
 			"id": 82,
 			"name": "Spitter",
 			"image": "Spitter.png"
+		},
+		{
+			"id": 83,
+			"name": "Stink Arms",
+			"image": "stink-arms.png"
+		},
+		{
+			"id": 84,
+			"name": "SwampFire",
+			"image": "swampfire.png"
+		},
+		{
+			"id": 85,
+			"name": "Techno-Bubble",
+			"image": "techno-bubble.png"
+		},
+		{
+			"id": 86,
+			"name": "Terraspin",
+			"image": "terraspin.png"
+		},
+		{
+			"id": 87,
+			"name": "The Worst",
+			"image": "the-worst.png"
+		},
+		{
+			"id": 88,
+			"name": "Toepick",
+			"image": "toepick.png"
+		},
+		{
+			"id": 89,
+			"name": "Toolboxx",
+			"image": "toolboxx.png"
+		},
+		{
+			"id": 90,
+			"name": "Upchuck",
+			"image": "upchuck.png"
+		},
+		{
+			"id": 91,
+			"name": "Uprigg",
+			"image": "uprigg.png"
+		},
+		{
+			"id": 92,
+			"name": "Vomit Man",
+			"image": "vomit-man.png"
+		},
+		{
+			"id": 93,
+			"name": "Walkatrout",
+			"image": "walkatrout.png"
+		},
+		{
+			"id": 94,
+			"name": "Whampire",
+			"image": "whampire.png"
+		},
+		{
+			"id": 95,
+			"name": "Wildmutt",
+			"image": "wildmutt.png"
 		}
 	]
 }
